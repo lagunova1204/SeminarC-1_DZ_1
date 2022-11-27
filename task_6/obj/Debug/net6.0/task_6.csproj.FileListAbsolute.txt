@@ -1,0 +1,16 @@
+C:\Users\ирина\SeminarC#1\task_6\bin\Debug\net6.0\task_6.exe
+C:\Users\ирина\SeminarC#1\task_6\bin\Debug\net6.0\task_6.deps.json
+C:\Users\ирина\SeminarC#1\task_6\bin\Debug\net6.0\task_6.runtimeconfig.json
+C:\Users\ирина\SeminarC#1\task_6\bin\Debug\net6.0\task_6.dll
+C:\Users\ирина\SeminarC#1\task_6\bin\Debug\net6.0\ref\task_6.dll
+C:\Users\ирина\SeminarC#1\task_6\bin\Debug\net6.0\task_6.pdb
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\task_6.GlobalUsings.g.cs
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\task_6.csproj.AssemblyReference.cache
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\task_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\task_6.AssemblyInfoInputs.cache
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\task_6.AssemblyInfo.cs
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\task_6.csproj.CoreCompileInputs.cache
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\task_6.dll
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\ref\task_6.dll
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\task_6.pdb
+C:\Users\ирина\SeminarC#1\task_6\obj\Debug\net6.0\task_6.genruntimeconfig.cache
